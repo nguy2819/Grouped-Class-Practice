@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+h1 {
+  font-size: 52px;
+  border-bottom: 3px solid #3f4c66;
+  padding-bottom: 4px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.colored-text{
+  font-size: 22px;
+}
+
+h1, h2, .colored-text {
+  font-family: 'Architects Daughter', cursive;
+  color: #3f4c66;
+  text-align: center;
+  padding-bottom: 4px;
+}
